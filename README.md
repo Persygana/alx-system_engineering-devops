@@ -1,4 +1,2 @@
-mkdir <0x00 shell basics>
- ./0-current_working_directory
-/root/alx-system_engineering-devops/0x00-shell_basics
-$
+# alx-system_engineering-devops
+mkdir < 0x00-shell _basics directory.
